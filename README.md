@@ -4,8 +4,5 @@
 
 
 ![image](https://github.com/ZeroOneMore/swift-CustomPicker/blob/master/Resource/picker.gif)
-|Tables         | Are           | Cool  |
-| ------------- |:-------------:| -----:|
-| col 3 is      | right-aligned | $1600 |
-| col 2 is      | centered      |   $12 |
-| zebra stripes | are neat      |    $1 |
+
+1. Bird 1. McHale 1. Parish
