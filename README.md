@@ -5,4 +5,6 @@
 
 ![image](https://github.com/ZeroOneMore/swift-CustomPicker/blob/master/Resource/picker.gif)
 
-
+1.  Bird
+1.  McHale
+1.  Parish
